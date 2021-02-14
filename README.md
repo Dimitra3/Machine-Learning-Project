@@ -1,4 +1,5 @@
-Machine Learning Progect
+Machine Learning Project.
+
 Spotify Genre Classification. In this project we only classify the following three genres: Ska, Hip-Hop, Classical
 
 All the code used for this project is included in the Spotify Genre Classification.ipynb jupyter notebook file.
