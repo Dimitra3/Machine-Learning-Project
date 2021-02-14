@@ -3,18 +3,9 @@ Spotify Genre Classification. In this project we only classify the following thr
 
 All the code used for this project is included in the Spotify Genre Classification.ipynb jupyter notebook file.
 
-Classification Models:
-SVM
-Random Forest
-KNearest Neighbors
-Guassian Naive Bayes
+Classification Models: SVM, Random Forest, KNearest Neighbors, Guassian Naive Bayes
 
-
-Metrics:
-Precision
-Recall
-F1 score
-Accuracy
+Metrics: Precision, Recall, F1 score, Accuracy
 
 The Dataset used for this project can be found here: https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db/code
 
